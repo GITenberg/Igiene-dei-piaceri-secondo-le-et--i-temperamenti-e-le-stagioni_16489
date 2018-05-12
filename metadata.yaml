@@ -1,0 +1,33 @@
+_repo: Igiene-dei-piaceri-secondo-le-et--i-temperamenti-e-le-stagioni_16489
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Introzzi, Gianpietro
+    gutenberg_agent_id: '6747'
+    url: http://www.gutenberg.org/2009/agents/6747
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Debay, A. (Auguste)
+    alias: Debay, Auguste
+    birthdate: 1802
+    deathdate: 1890
+    gutenberg_agent_id: '6746'
+    url: http://www.gutenberg.org/2009/agents/6746
+description: ''
+gutenberg_bookshelf: IT Salute
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16489'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pleasure'
+- !lcc 'BF'
+title: Igiene dei piaceri secondo le età, i temperamenti e le stagioni
+url: http://www.gutenberg.org/ebooks/16489
