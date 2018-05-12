@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '6746'
     url: http://www.gutenberg.org/2009/agents/6746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16489#Igiene-dei-piaceri-secondo-le-et--i-temperamenti-e-le-stagioni
 gutenberg_bookshelf: IT Salute
 gutenberg_issued: '2005-08-08'
 gutenberg_type: Text
